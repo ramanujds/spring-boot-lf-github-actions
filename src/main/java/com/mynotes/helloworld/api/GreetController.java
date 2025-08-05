@@ -8,7 +8,7 @@ public class GreetController {
 
     @GetMapping
     public String greet(){
-        return "Hello everyone";
+        return "Shiraj Bhai ne kamal ka kaam kiya hai";
     }
 
 }
